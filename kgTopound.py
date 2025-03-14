@@ -1,4 +1,4 @@
-kg = float("킬로그램을 입력하세요: ")
+kg = float(input("킬로그램을 입력하세요: "))
 
 pound = kg * 2.205
 
