@@ -26,3 +26,7 @@ for radius in range(1, 250):
         turtle.pencolor('navyblue')
     else:
         turtle.pencolor('purple')
+
+    turtle.circle(radius)
+
+turtle.done()
